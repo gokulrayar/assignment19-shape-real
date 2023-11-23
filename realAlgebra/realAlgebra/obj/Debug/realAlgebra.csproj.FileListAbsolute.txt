@@ -1,0 +1,10 @@
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\bin\Debug\realAlgebra.exe.config
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\bin\Debug\realAlgebra.exe
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\bin\Debug\realAlgebra.pdb
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\bin\Debug\ShapeArealip.dll
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\bin\Debug\ShapeArealip.pdb
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\obj\Debug\realAlgebra.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\obj\Debug\realAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\obj\Debug\realAlgebra.csproj.CopyComplete
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\obj\Debug\realAlgebra.exe
+C:\Users\rayar\source\repos\realAlgebra\realAlgebra\obj\Debug\realAlgebra.pdb

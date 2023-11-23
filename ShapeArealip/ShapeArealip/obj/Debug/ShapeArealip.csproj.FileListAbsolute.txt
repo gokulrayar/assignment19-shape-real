@@ -1,0 +1,6 @@
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\bin\Debug\ShapeArealip.dll
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\bin\Debug\ShapeArealip.pdb
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\obj\Debug\ShapeArealip.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\obj\Debug\ShapeArealip.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\obj\Debug\ShapeArealip.dll
+C:\Users\rayar\source\repos\ShapeArealip\ShapeArealip\obj\Debug\ShapeArealip.pdb
